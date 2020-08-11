@@ -1,0 +1,15 @@
+current directory: /Users/ikko/Desktop/rspec_sample/vendor/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/ikko/.rbenv/versions/2.6.6/bin/ruby -I /Users/ikko/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20200811-10577-18jnrga.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ikko/Desktop/rspec_sample/vendor/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/ikko/Desktop/rspec_sample/vendor/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/ikko/Desktop/rspec_sample/vendor/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20200811-10577-1hepca3/skiptrace/internal
